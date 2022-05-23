@@ -1,8 +1,8 @@
-### Hi there 👋
+### Olá! Eu sou Victor Monteiro
 
-🔭 Hoje trabalho com front-end
-🌱 Estudando JavaScript, TypeScript, C# e Python
-📭 Contate-me em victoralves.monteiro@outlook.com
+- 🔭 Hoje trabalho com front-end
+- 🌱 Estudando JavaScript, TypeScript, C# e Python 
+- 📭 Contate-me em victoralves.monteiro@outlook.com
 
 ##
 
